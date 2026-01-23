@@ -1,0 +1,42 @@
+# Sample Data Descriptions
+
+These CSV files represent different financial behaviors corresponding to the 5 credit score tiers.
+
+## 1. Excellent Credit (excellent.csv)
+- **Score Range**: 800-850
+- **Characteristics**:
+    - High average balance (> $40k).
+    - Perfect payment consistency (Monthly salary like clockwork).
+    - Long history (Data starts from previous year).
+    - Low spending relative to income (High savings rate).
+
+## 2. Very Good Credit (very_good.csv)
+- **Score Range**: 740-799
+- **Characteristics**:
+    - Strong balance growth.
+    - Evidence of investments (Financial responsibility).
+    - No missed payments.
+    - Stable income source.
+
+## 3. Good Credit (good.csv)
+- **Score Range**: 670-739
+- **Characteristics**:
+    - "Average" healthy profile.
+    - Pays bills on time.
+    - Moderate balance/savings.
+    - No negative flags (overdrafts), but lower income/savings than top tiers.
+
+## 4. Fair Credit (fair.csv)
+- **Score Range**: 580-669
+- **Characteristics**:
+    - High spending volatility (Living paycheck to paycheck).
+    - Low average balance.
+    - Occasional high utilization (Spending almost all income).
+    - **No missed payments**, but the financial stress lowers the score.
+
+## 5. Poor Credit (poor.csv)
+- **Score Range**: 300-579
+- **Characteristics**:
+    - **Missed Income**: Gap between Jan and March (Missed Feb).
+    - **Overdrafts**: Balance frequently goes below zero.
+    - Low/Negative balance.

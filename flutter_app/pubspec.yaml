@@ -1,0 +1,45 @@
+name: credit_score_app
+description: "Offline Credit Score Prediction App with ML"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Local Storage
+  shared_preferences: ^2.2.2
+  sqflite: ^2.3.2
+  sqflite_common_ffi: ^2.3.2
+
+
+  # File System
+  path_provider: ^2.1.2
+
+  # State Management
+  provider: ^6.1.1
+
+  # CSV Parsing
+  csv: ^6.0.0
+
+  # File Picker
+  file_picker: ^8.0.0+1
+
+  # Utilities
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/ml/

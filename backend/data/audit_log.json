@@ -1,0 +1,1554 @@
+{
+  "logs": [
+    {
+      "timestamp": "2026-01-22T21:44:48.552859",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 300,
+      "risk_category": "Poor",
+      "applicant_id": "APP-2024-001",
+      "additional_data": {
+        "decision": "MANUAL_REVIEW",
+        "risk_level": "VERY_HIGH"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T21:45:00.094673",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 300,
+      "risk_category": "Poor",
+      "applicant_id": "APP-2024-001",
+      "additional_data": {
+        "decision": "MANUAL_REVIEW",
+        "risk_level": "VERY_HIGH"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T21:45:09.673764",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 300,
+      "risk_category": "Poor",
+      "applicant_id": "APP-2024-001",
+      "additional_data": {
+        "decision": "MANUAL_REVIEW",
+        "risk_level": "VERY_HIGH"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T21:45:17.128965",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-22T21:45:17.453023",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-22T21:47:01.803002",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 300,
+      "risk_category": "Poor",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:01:28.890142",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": "APP-2024-001",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T22:12:21.653950",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T22:12:57.455538",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": "aadio",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T22:13:05.334207",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": "aadio",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T22:13:09.195053",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": "aadio",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T22:13:21.004151",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": "aadio",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T22:14:24.441883",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:14:31.423522",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:14:37.326851",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:14:38.831019",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:14:48.539910",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:42:48.935895",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:42:55.402563",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:50:48.638117",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:51:01.296929",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:51:18.411652",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:51:24.245629",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:51:25.323871",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:51:34.333513",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:51:43.621611",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:52:51.110741",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:52:57.934094",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 620,
+      "risk_category": "Fair",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:53:02.593544",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:53:10.463462",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:53:17.754161",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:53:31.347619",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T22:53:57.135278",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "MANUAL_REVIEW",
+        "risk_level": "HIGH"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T22:54:04.321513",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T22:54:18.967961",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-22T22:54:19.297043",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-22T23:08:15.756738",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-22T23:08:16.102982",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-22T23:09:14.246019",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 620,
+      "risk_category": "Fair",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-22T23:09:33.482909",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 620,
+      "risk_category": "Fair",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE_WITH_CONDITIONS",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-22T23:11:23.362244",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-22T23:11:23.702075",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T00:46:07.749348",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T00:46:08.092557",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T00:57:24.930850",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T00:57:25.274103",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T00:58:18.092486",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-23T00:59:34.032426",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T00:59:59.985481",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:00:00.322475",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:02:20.116981",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:12:04.897940",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-23T01:12:28.507471",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:14:39.502032",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "MANUAL_REVIEW",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:23:46.190890",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-23T01:24:27.028803",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:25:33.317297",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-23T01:27:25.111908",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:27:25.441188",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:30:00.727122",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:30:12.281907",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:30:12.626773",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:31:03.538102",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:31:03.895941",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:32:14.565077",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-23T01:32:40.862380",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:32:59.883934",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "MANUAL_REVIEW",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:34:33.207244",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-23T01:34:47.863493",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:34:48.202135",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T01:35:10.941041",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:00:39.348102",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:13:13.633263",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 550,
+      "risk_category": "Poor",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "MANUAL_REVIEW",
+        "risk_level": "HIGH"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:13:52.808959",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:13:53.159086",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:33:16.976129",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:24.973264",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:25.327027",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:29.011067",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:29.357470",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:30.350340",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:30.713012",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:51.275278",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:51.619072",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:59.597149",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:38:59.956397",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:39:55.157535",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:39:55.204890",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:12.550635",
+      "user": "citizen@test.com",
+      "role": "citizen",
+      "action": "score_request",
+      "score": 850,
+      "risk_category": "Excellent",
+      "applicant_id": null
+    },
+    {
+      "timestamp": "2026-01-23T02:40:30.483517",
+      "user": "bank@test.com",
+      "role": "bank",
+      "action": "risk_assessment",
+      "score": 720,
+      "risk_category": "Good",
+      "applicant_id": "aadi",
+      "additional_data": {
+        "decision": "APPROVE",
+        "risk_level": "LOW"
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:39.560048",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:39.907335",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:45.159140",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:45.508872",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:47.392262",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:47.438262",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:49.506493",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:49.558124",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:51.884258",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:51.920723",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:56.416798",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:56.782119",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:59.004387",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:40:59.298036",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:42:22.681490",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:42:23.052724",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    },
+    {
+      "timestamp": "2026-01-23T02:44:47.616248",
+      "user": "admin@test.com",
+      "role": "admin",
+      "action": "audit_view",
+      "score": null,
+      "risk_category": null,
+      "applicant_id": null,
+      "additional_data": {
+        "filters": {
+          "limit": 50,
+          "offset": 0,
+          "user": null,
+          "role": "",
+          "action": ""
+        }
+      }
+    }
+  ],
+  "stats": {
+    "total_requests": 107,
+    "total_scores": 36130,
+    "avg_score": 401
+  }
+}

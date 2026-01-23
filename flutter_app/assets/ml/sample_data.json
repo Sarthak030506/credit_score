@@ -1,0 +1,285 @@
+{
+  "excellent": [
+    {
+      "date": "2023-10-01",
+      "amount": "8000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "25000"
+    },
+    {
+      "date": "2023-11-01",
+      "amount": "8000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "30000"
+    },
+    {
+      "date": "2023-12-01",
+      "amount": "8000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "35000"
+    },
+    {
+      "date": "2024-01-01",
+      "amount": "8000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "40000"
+    },
+    {
+      "date": "2024-01-05",
+      "amount": "-2000",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "38000"
+    },
+    {
+      "date": "2024-01-15",
+      "amount": "-500",
+      "category": "Utilities",
+      "type": "debit",
+      "balance": "37500"
+    },
+    {
+      "date": "2024-02-01",
+      "amount": "8000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "45500"
+    },
+    {
+      "date": "2024-02-05",
+      "amount": "-2000",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "43500"
+    },
+    {
+      "date": "2024-03-01",
+      "amount": "8000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "51500"
+    }
+  ],
+  "good": [
+    {
+      "date": "2024-01-01",
+      "amount": "4000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "5000"
+    },
+    {
+      "date": "2024-01-05",
+      "amount": "-1200",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "3800"
+    },
+    {
+      "date": "2024-01-10",
+      "amount": "-800",
+      "category": "Utilities",
+      "type": "debit",
+      "balance": "3000"
+    },
+    {
+      "date": "2024-01-20",
+      "amount": "-500",
+      "category": "Food",
+      "type": "debit",
+      "balance": "2500"
+    },
+    {
+      "date": "2024-02-01",
+      "amount": "4000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "6500"
+    },
+    {
+      "date": "2024-02-05",
+      "amount": "-1200",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "5300"
+    },
+    {
+      "date": "2024-02-10",
+      "amount": "-800",
+      "category": "Utilities",
+      "type": "debit",
+      "balance": "4500"
+    },
+    {
+      "date": "2024-02-20",
+      "amount": "-500",
+      "category": "Food",
+      "type": "debit",
+      "balance": "4000"
+    }
+  ],
+  "fair": [
+    {
+      "date": "2024-01-01",
+      "amount": "3000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "100"
+    },
+    {
+      "date": "2024-01-02",
+      "amount": "-1500",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "-1400"
+    },
+    {
+      "date": "2024-01-05",
+      "amount": "-1000",
+      "category": "Shopping",
+      "type": "debit",
+      "balance": "400"
+    },
+    {
+      "date": "2024-01-15",
+      "amount": "3000",
+      "category": "Freelance",
+      "type": "credit",
+      "balance": "3400"
+    },
+    {
+      "date": "2024-01-20",
+      "amount": "-3000",
+      "category": "CreditCardBill",
+      "type": "debit",
+      "balance": "400"
+    },
+    {
+      "date": "2024-02-01",
+      "amount": "3000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "3400"
+    },
+    {
+      "date": "2024-02-02",
+      "amount": "-1500",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "1900"
+    },
+    {
+      "date": "2024-02-15",
+      "amount": "-1800",
+      "category": "Shopping",
+      "type": "debit",
+      "balance": "100"
+    }
+  ],
+  "poor": [
+    {
+      "date": "2024-01-01",
+      "amount": "2000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "500"
+    },
+    {
+      "date": "2024-01-02",
+      "amount": "-500",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "0"
+    },
+    {
+      "date": "2024-01-05",
+      "amount": "-50",
+      "category": "Food",
+      "type": "debit",
+      "balance": "-50"
+    },
+    {
+      "date": "2024-01-10",
+      "amount": "-50",
+      "category": "Food",
+      "type": "debit",
+      "balance": "-100"
+    },
+    {
+      "date": "2024-01-15",
+      "amount": "-50",
+      "category": "Transport",
+      "type": "debit",
+      "balance": "-150"
+    },
+    {
+      "date": "2024-03-01",
+      "amount": "1500",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "1350"
+    },
+    {
+      "date": "2024-03-05",
+      "amount": "-1400",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "-50"
+    }
+  ],
+  "very_good": [
+    {
+      "date": "2024-01-01",
+      "amount": "6000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "10000"
+    },
+    {
+      "date": "2024-01-05",
+      "amount": "-1500",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "8500"
+    },
+    {
+      "date": "2024-01-15",
+      "amount": "-1000",
+      "category": "Investments",
+      "type": "debit",
+      "balance": "7500"
+    },
+    {
+      "date": "2024-02-01",
+      "amount": "6000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "13500"
+    },
+    {
+      "date": "2024-02-05",
+      "amount": "-1500",
+      "category": "Rent",
+      "type": "debit",
+      "balance": "12000"
+    },
+    {
+      "date": "2024-02-15",
+      "amount": "-1000",
+      "category": "Investments",
+      "type": "debit",
+      "balance": "11000"
+    },
+    {
+      "date": "2024-03-01",
+      "amount": "6000",
+      "category": "Salary",
+      "type": "credit",
+      "balance": "17000"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python ml/train_model.py:*)",
+      "Bash(python app.py:*)",
+      "Bash(curl:*)",
+      "Bash(TOKEN=\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNpdGl6ZW5AdGVzdC5jb20iLCJyb2xlIjoiY2l0aXplbiIsIm5hbWUiOiJKb2huIERvZSIsImV4cCI6MTc2OTIwNDIyNH0.BZ9KWFb6HcIfmRWts4byXwT1MHGOmDHeiZE7ZJsfons\")",
+      "Bash(python:*)",
+      "Bash(flutter create:*)",
+      "Bash(flutter pub get:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(flutter build:*)",
+      "Bash(flutter devices:*)",
+      "Bash(flutter run:*)"
+    ]
+  }
+}

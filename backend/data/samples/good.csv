@@ -1,0 +1,9 @@
+date,amount,category,type,balance
+2024-01-01,4000,Salary,credit,5000
+2024-01-05,-1200,Rent,debit,3800
+2024-01-10,-800,Utilities,debit,3000
+2024-01-20,-500,Food,debit,2500
+2024-02-01,4000,Salary,credit,6500
+2024-02-05,-1200,Rent,debit,5300
+2024-02-10,-800,Utilities,debit,4500
+2024-02-20,-500,Food,debit,4000

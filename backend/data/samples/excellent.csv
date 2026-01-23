@@ -1,0 +1,10 @@
+date,amount,category,type,balance
+2023-10-01,8000,Salary,credit,25000
+2023-11-01,8000,Salary,credit,30000
+2023-12-01,8000,Salary,credit,35000
+2024-01-01,8000,Salary,credit,40000
+2024-01-05,-2000,Rent,debit,38000
+2024-01-15,-500,Utilities,debit,37500
+2024-02-01,8000,Salary,credit,45500
+2024-02-05,-2000,Rent,debit,43500
+2024-03-01,8000,Salary,credit,51500
